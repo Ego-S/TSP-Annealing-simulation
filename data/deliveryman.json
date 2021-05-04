@@ -1,0 +1,17 @@
+{
+  "speed": 10.0,
+  "latitude": 50.2839843,
+  "longitude": 30.8350063,
+  "work_start": [
+    9,
+    0
+  ],
+  "work_end": [
+    23,
+    0
+  ],
+  "spend_at_point": [
+    0,
+    10
+  ]
+}
